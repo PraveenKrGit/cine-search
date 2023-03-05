@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className={`app app${mode}`}>
-      <h1 className={`title${mode}`}>CineSearch</h1>
+      <a className={`title${mode}`} href="/">CineSearch</a>
 
       <div className={`search search${mode}`}>
         <input

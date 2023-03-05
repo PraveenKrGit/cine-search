@@ -32,11 +32,12 @@ body {
   color:rgb(0, 0, 0);
 }
 
-h1 {
-  font-size: 3rem;
+a {
+  font-size: 4rem;
   letter-spacing: 3px;
   color: rgb(88, 209, 88);
   font-family: 'Rampart One', cursive;
+  text-decoration: none;
 }
 
 .titlelight{
